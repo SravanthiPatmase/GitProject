@@ -11,10 +11,10 @@ public class Demo1
 	  
 	  
 	  
-	  int i=10;
-	  for(i=1;i<=10;i++)
+	  int j=10;
+	  for(j=1;j<=10;j++)
 	  {
-		  System.out.println(i);
+		  System.out.println(j);
 	  }
   }
 }
