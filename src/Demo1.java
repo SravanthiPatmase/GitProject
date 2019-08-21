@@ -9,8 +9,6 @@ public class Demo1
 	  else
 		  System.out.println("Bye");*/
 	  
-	  
-	  
 	  int j=10;
 	  for(j=1;j<=10;j++)
 	  {
