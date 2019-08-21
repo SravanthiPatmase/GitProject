@@ -3,8 +3,7 @@ public class Demo1
 {
   public static void main(String args[])
   {
-	  int j,k,b;
-	  for(j=1;j<=10;j++)
+	  int j,k,a;	  for(j=1;j<=10;j++)
 	  {
 		  System.out.println(j);
 	  }
